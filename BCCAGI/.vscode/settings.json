@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "black-py.useIntegratedTerminal": false,
+  "python.analysis.typeCheckingMode": "basic",
+  "files.saveConflictResolution": "overwriteFileOnDisk"
+}
