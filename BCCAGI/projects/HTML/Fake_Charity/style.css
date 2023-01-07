@@ -1,0 +1,84 @@
+#main_text {
+  background-color: #183a37;
+  
+
+}
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title {
+  
+  background-color: #000080;
+  background-position: 50%;
+  background-size: 20%;
+  height: 100%;
+  width: 100%;
+  color: #e6c229;
+  font-size: 400%;
+  text-align: center;
+}
+#subtitle{
+text-align: center;;
+color: #d36135;
+font-size: 300%;
+}
+#about_us{
+  background-color: #000080;
+  color: #e6c229;
+  font-size: 40px;
+  text-align: center;
+  padding: 2em;
+  border-radius: 50%;
+}
+
+#icons{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 0%;
+min-height: 400px;
+max-height: 400px;
+min-width: 400px;
+max-width: 400px;
+shape-margin: 50%;
+border-radius: 200%;
+}
+
+#man{
+display: block;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+min-width: 400px;
+min-height: 300px;
+}
+
+#donation{
+  color:#1b9aaa;
+  font-size: 140%;
+  position: fixed;
+  bottom: 0;
+  left: auto;
+  right: auto;
+  background-color: black;
+  margin-top: 1%;
+  height: auto;
+  padding: .2em;
+  font-weight: bolder;
+  text-transform:capitalize;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+#team{
+  background-color: #000080;
+  color: #e6c229;
+  font-size: 40px;
+  text-align: center;
+  padding: 2em;
+  border-radius: 50%;
+}
+
