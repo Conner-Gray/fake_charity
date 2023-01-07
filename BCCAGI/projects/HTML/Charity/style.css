@@ -1,62 +1,84 @@
 #main_text {
-  background-color: navy;
+  background-color: #183a37;
   
 
 }
-#washingtitle {
-  background-color:#F1F1F6;
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title {
+  
+  background-color: #000080;
+  background-position: 50%;
+  background-size: 20%;
   height: 100%;
   width: 100%;
-  color: #B32134;
-  font-size: 100px;
+  color: #e6c229;
+  font-size: 400%;
   text-align: center;
 }
-#flag{
-display: block;
-min-height: 300px;
-max-height: 300px;
-min-width: 600px;
-max-width: 600px;
-width: 90%;
-margin-left: auto;
-margin-right: auto;
+#subtitle{
+text-align: center;;
+color: #d36135;
+font-size: 300%;
 }
-#firstp{
-color: #F1F1F6;
-font-size: 150%;
-}
-#goat {
-  background-color: #F1F1F6;
-  color: #B32134;
+#about_us{
+  background-color: #000080;
+  color: #e6c229;
   font-size: 40px;
   text-align: center;
-}
-#firstlink{
-background-color: #F1F1F6;
-color:#3b3b6d;
+  padding: 2em;
+  border-radius: 50%;
 }
 
-#secondlink{
-background-color: #F1F1F6;
-color:#3b3b6d;
-}
-
-#portrait{
+#icons{
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 90%;
+width: 0%;
 min-height: 400px;
 max-height: 400px;
-min-width: 250px;
-max-width: 250px;
+min-width: 400px;
+max-width: 400px;
+shape-margin: 50%;
+border-radius: 200%;
 }
 
-#boatington{
+#man{
 display: block;
 margin-bottom: auto;
 margin-left: auto;
 margin-right: auto;
-min-width: 600px;
+min-width: 400px;
 min-height: 300px;
 }
+
+#donation{
+  color:#1b9aaa;
+  font-size: 140%;
+  position: fixed;
+  bottom: 0;
+  left: auto;
+  right: auto;
+  background-color: black;
+  margin-top: 1%;
+  height: auto;
+  padding: .2em;
+  font-weight: bolder;
+  text-transform:capitalize;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+#team{
+  background-color: #000080;
+  color: #e6c229;
+  font-size: 40px;
+  text-align: center;
+  padding: 2em;
+  border-radius: 50%;
+}
+
